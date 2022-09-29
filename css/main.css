@@ -1,7 +1,12 @@
-img{
+.container {
+  padding: 0 2rem;
+}
+
+img {
   width: 100%;
 }
-.avatar{
+
+.avatar {
   max-width: 320px;
   border-radius: 50%;
 }
